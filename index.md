@@ -21,4 +21,4 @@ Leonardo Nodari - Studente, Informatica
 
 ---
 
-_(Per aggiungere la tua firma, mandaci una pull request su GitHub)_
+_(Per aggiungere la tua firma, [mandaci una pull request su GitHub](https://github.com/dantt/lettera-aperta-a-michele-serra))_
