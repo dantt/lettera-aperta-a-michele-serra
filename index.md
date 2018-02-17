@@ -1,4 +1,8 @@
-# Lettera Aperta a Michele Serra
+# La Dignità della Cybersecurity - Lettera Aperta a Michele Serra
+
+_In seguito ai fatti relativi alla vicenda "hack5stelle" e all'identificazione del responsabile, tra i tanti articoli scritti in proposito siamo rimasti colpiti (in negativo) da ["L'Amaca" di Michele Serra, su Repubblica](https://rep.repubblica.it/pwa/rubrica/2018/02/07/news/amaca_michele_serra-188286304/), che generalizzando attacca tutta la disciplina, la professione, e la scienza della cybersecurity. Questa è la risposta che abbiamo inviato a Repubblica._
+
+---
 
 Stimato Direttore,  
 Stimata Redazione di Repubblica e Michele Serra,
