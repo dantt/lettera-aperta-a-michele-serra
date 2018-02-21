@@ -22,6 +22,7 @@ Carlo Maragno - Studente, Ingegneria dell’Informazione
 Andrea Biondo - Studente, Informatica  
 Riccardo Bonafede - Studente, Ingegneria Informatica  
 Leonardo Nodari - Studente, Informatica  
+Francesco Soncina - Informatico, InfoSec Enthusiast
 
 ---
 
